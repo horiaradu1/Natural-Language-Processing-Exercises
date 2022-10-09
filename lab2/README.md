@@ -1,3 +1,3 @@
-NLP + Deep Learning for product reviews
+# NLP + Deep Learning for product reviews
 
-Using a transformer for sentiment analysis in reviews
+## Using a transformer for sentiment analysis in reviews
